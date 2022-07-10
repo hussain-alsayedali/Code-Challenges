@@ -1,5 +1,7 @@
-let distanceToPump = 100 
-let mpg = 50
-let fuelLeft = 1
-
-return mpg * fuelLeft >= distanceToPump ? true : false
+let n = 24
+if(Number.isInteger(Math.sqrt(n))){
+    console.log(true)
+}
+else{
+    console.log(false)
+}
