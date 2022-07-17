@@ -1,0 +1,12 @@
+let x = 'Madam'
+x = x.toLowerCase().split('')
+
+
+
+let isPali = true
+x.forEach((num, i) =>{
+    if(num != x[x.length-i-1]){
+        isPali = false
+    }
+})
+console.log(isPali)
