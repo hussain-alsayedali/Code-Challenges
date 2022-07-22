@@ -1,0 +1,1 @@
+return Math.min(...args)
