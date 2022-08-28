@@ -11,10 +11,10 @@ let dashedNum = ''
 num.forEach((number , index) =>{
     if( number % 2 == 0 ) dashedNum += number
 
-    else if(index === 1 && number % 2 != 0) dashedNum += number + "-"
+    else if(index === 0 && number % 2 != 0) dashedNum += number + "-"
 
     else if(number % 2 != 0 && dashedNum[dashedNum.length -1] != "-") dashedNum += "-" + number + "-"
-    
+
     else if(number % 2 != 0) dashedNum += number + "-"
 })
 
