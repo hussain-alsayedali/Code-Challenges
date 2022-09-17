@@ -1,1 +1,5 @@
-onsole.log(num1)
+
+// natoArr.forEach(x =>{
+//     if(x === 'deletMe')
+//     natoArr.
+// })
