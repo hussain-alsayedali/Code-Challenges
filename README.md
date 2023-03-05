@@ -3,7 +3,7 @@ nothing better than a daily challenge to sharpen the skills
 
 
 
-<img src="[https://www.codewars.com/users/hussain-alsayedali/badges/large.png](https://www.codewars.com/users/hussain-alsayedali/badges/large)" />
+<img src="https://www.codewars.com/users/hussain-alsayedali/badges/large" />
 <img src="screenshot.png" />
 
 ## Lessons Learned:
